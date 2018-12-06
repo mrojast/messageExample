@@ -1,0 +1,7 @@
+{
+  "name": "messageExample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
